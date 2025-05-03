@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "backend",
+            "cwd": "C:/Users/rkdwn/Desktop/pohang_origin/back",
+            "script": "app.js",
+            "args": "start"
+        }
+    ]
+}
